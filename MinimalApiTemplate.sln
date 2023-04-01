@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiTemplate.Api", "s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiTemplate.Contracts", "src\MinimalApiTemplate.Contracts\MinimalApiTemplate.Contracts.csproj", "{8C53690A-AF4F-4D5B-84E3-861A0D5AF3DE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimapApiTemplate.Database", "src\MinimapApiTemplate.Database\MinimapApiTemplate.Database.csproj", "{090C24B9-3947-41E7-A9E9-28F9378C9E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiTemplate.Database", "src\MinimapApiTemplate.Database\MinimalApiTemplate.Database.csproj", "{090C24B9-3947-41E7-A9E9-28F9378C9E86}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiTemplate.Sdk", "src\MinimalApiTemplate.Sdk\MinimalApiTemplate.Sdk.csproj", "{CD4879BB-3B50-4A21-BE2C-D44FCDBAF889}"
 EndProject
